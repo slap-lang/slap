@@ -1,0 +1,8 @@
+[package]
+name = "slap"
+version = "0.1.1"
+authors = ["Adam Christiansen"]
+description = "This crate is available for ownership transfer"
+license = "MIT"
+repository = "https://github.com/slap-lang/slap"
+edition = "2018"
